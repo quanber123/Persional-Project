@@ -45,7 +45,7 @@ body{
 }
 .detail-hometown{
     width: 400px;
-    height: auto;
+    height: 400px;
     margin: 20px auto;
 }
 .hometown{
@@ -58,6 +58,11 @@ body{
     width: 150px;
     height: 150px;
     border-radius: 100%;
+}
+
+.img-hometown:hover{
+    width: 200px;
+    height: 200px;
 }
 
 #myCard{
